@@ -661,6 +661,16 @@ small {
 }
 
 /*******************
+		EXPERIENCE SECTION
+*************************/
+
+.experience {
+	margin-block-start: var(--section-mt);
+	background: var(--secondary-clr);
+	padding: var(--section-mt) 1rem;
+}
+
+/*******************
 		FOOTER
 *************************/
 .footer {
@@ -868,3 +878,4 @@ small {
 		justify-content: center;
 	}
 }
+
